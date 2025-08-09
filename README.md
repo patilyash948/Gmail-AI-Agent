@@ -21,5 +21,5 @@ This project automates the creation and sending of professional emails using **L
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ai-gmail-scheduler.git
-cd ai-gmail-scheduler
+git clone https://github.com/patilyash948/Gmail-AI-Agent.git
+cd Gmail-AI-Agent
